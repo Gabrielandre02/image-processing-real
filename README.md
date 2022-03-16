@@ -1,9 +1,26 @@
-# package_name
+## Projeto: Pacote de Processamento de Imagens
+Autora do Projeto: Karina Kato
+Aula: Descomplicando a criação de pacotes de processamento de imagens em Python - Digital Innovation One
 
-Description. 
-The package package_name is used to:
-	- 
-	-
+Tecnologia: Python
+Data: 16/03/2022
+
+## Descrição
+O pacote "image_processing-test" é usado para:
+
+"Módulo "Processing":
+
+	Correspondência de histograma;
+	Similaridade estrutural;
+	Redimensionar imagem;
+
+"Módulo "Utils":
+
+	Ler imagem;
+	Salvar imagem;
+	Plotar imagem;
+	Resultado do gráfico;
+	Plotar histograma;
 
 ## Installation
 
@@ -20,8 +37,8 @@ from package_name.module1_name import file1_name
 file1_name.my_function()
 ```
 
-## Author
-My_name
+## Autor (quem hospedou o projeto no Test Pypi) 
+Gabriel andre
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
