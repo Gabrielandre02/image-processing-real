@@ -27,14 +27,14 @@ O pacote "image_processing-test" é usado para:
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
 
 ```bash
-pip install package_name
+pip install image-processing-teste2
 ```
 
 ## Usage
 
 ```python
-from package_name.module1_name import file1_name
-file1_name.my_function()
+from image_processing_teste2.utils import io, plot
+from image_processing_teste2.processing import combination, transformation
 ```
 
 ## Autor (quem hospedou o projeto no Test Pypi) 
